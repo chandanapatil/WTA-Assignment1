@@ -1,0 +1,44 @@
+table {
+  border-collapse: collapse;
+  text-align: left;
+  width: 40%;
+  background-color: #12928e;
+  padding: 15px;
+  font-size: 20px;
+  
+
+}
+
+ td, th {
+  border: 1px solid black;
+  text-align: left;
+  border-collapse: collapse;
+  width: 0%;
+  padding: 15px;
+  font-size: 20px;
+}
+h1 {
+  font-size: 35px; 
+  color: blue;
+}
+.cs1{ 
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:  balck;
+}
+
+li {
+  font-size: 25px;
+  color: black;
+}
+table.center {
+  margin-left:auto; 
+  margin-right:auto;
+}
+h2{text-align: center;
+	font-size: 40px;
+}
+a{
+	font-size: 30px;
+	font-color: black;
+
+}
